@@ -5,7 +5,7 @@ trials = 10000
 
 samplesize = [1, 5, 10, 20, 50, 100, 500, 1000]
 
-plt.figure(figsize=(12, 6)
+plt.figure(figsize=(12, 6))
 plt.suptitle("Central Limit Theorem", fontsize=16) 
 for i, n in enumerate(samplesize, 1):
     plt.subplot(2, 4, i)
