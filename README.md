@@ -19,4 +19,4 @@ Welcome to my Machine Learning journey! This repository contains all the code, n
 - Matplotlib & Seaborn
 
 ---
-*Created by Hemanshu Ajay Nemade*
+*Created by Hemanshu*
